@@ -1,3 +1,6 @@
+
+#TC:O(n) 
+#SC:O(n)
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
         #declaring a hashmap
