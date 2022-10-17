@@ -1,3 +1,5 @@
+#TC:O(n) 
+#SC:O(n)
 class Solution:
     def longestPalindrome(self, s: str) -> int:
         #initiawlize a hashset
